@@ -1,1 +1,1 @@
-# graphs_and_dfsmaze
+# Graphs and DFS Maze
